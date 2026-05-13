@@ -32,7 +32,7 @@
 - Busco evoluir constantemente minhas habilidades na área de TI.
 - Gosto de aprender na prática através de projetos e estudos.
 - Interessado em desenvolvimento fullstack e cibersegurança.
-- Sempre aberto a novos conhecimentos e desafios.
+- Amo Rock e Cultura Geek
 
 ---
 
